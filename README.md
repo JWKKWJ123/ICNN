@@ -3,6 +3,9 @@ The core model architecture is consistent with our previous conference work, whi
 This repository extends our previous conference work: https://ieeexplore.ieee.org/abstract/document/10981153
 
 
+DOI link: zenodo.org/records/19610348
+
+
 ## Repository Structure
 
 - data/: saved features and example data used for testing and visualization  
@@ -50,6 +53,15 @@ model_testing.py:
   - individual-level feature contributions  
 
 Generated figures are saved in the plot/ folder (example results are already provided).
+
+
+
+## Code Availability
+
+A stable archived version of this repository is available on Zenodo:  
+https://zenodo.org/records/19610348  
+
+This archived version corresponds to the code used in the journal study and ensures reproducibility of the reported results.
 
 
 ## Visualization (Colab)
